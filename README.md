@@ -3,7 +3,7 @@ Relazione tesi magistrale in Ingegneria Robotica e dell'Automazione, progetto pe
 
 Ant Colony Optimization for the Dubins Traveling Salesman Problem
 
-Riassunto
+## Riassunto
 
 La tesi presenta un programma che implementa l'algoritmo euristico Ant Colony Optimization (ACO) per la risoluzione del problema del commesso viaggiatore nella variante di Dubins (DTSP); esso unisce quindi la ricerca del percorso più breve che tocchi un set di punti con i vincoli cinematici della macchina di Dubins.
 Per poter convertire un insieme ordinato di waypoints in un tour di Dubins, sono stati provati due diversi approcci, il semplice Alternating Algorithm (AA) e il più recente Pulley Algorithm (PA).
