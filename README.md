@@ -1,4 +1,4 @@
-# ACO-DTSP
+# ACO-DTSP-report
 Relazione tesi magistrale in Ingegneria Robotica e dell'Automazione, progetto per Sistemi Robotici Distribuiti
 
 Ant Colony Optimization for the Dubins Traveling Salesman Problem
